@@ -1,0 +1,58 @@
+.link-menu a:hover
+{
+	background-color:#ffcc00;
+	color:black !important;
+	border-radius: 4px;
+}
+.divider-warning
+{
+	border-color: #ffcc00;
+}
+
+.navbar-toggler-icon
+{
+	background-image: url(../img/menu.png);
+}
+.carousel-control-prev-icon
+{
+	background-image: url(../img/seta-esquerda.png);
+	background-size: 100%;
+}
+.carousel-control-next-icon
+{
+	background-image: url(../img/seta-direita.png);
+	background-size: 100%;
+}
+.background-img
+{
+	background-color: black;
+}
+.paralax
+{
+	height: 25px;
+}
+.redesoci figure a
+{
+	text-decoration: none;
+}
+.redesoci figure
+{
+	margin-left: 0;
+}
+.redesoci figure a img
+{
+	width: 50px;
+}
+a[href="#top"]{
+    padding:5px;
+    position:fixed;
+    top: 90%;
+    right:40px;
+    display:none;
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+}
+a[href="#top"]:hover{
+    text-decoration:none;
+}
